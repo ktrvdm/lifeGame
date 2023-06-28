@@ -1,0 +1,27 @@
+#canvas {
+    width: 800px;
+    height: 800px;
+    border: 5px solid black;
+    margin: 20px;
+}
+
+p.countText {
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+body {
+    font-family: fantasy;
+}
+
+#start {
+    font-size: 30px;
+    margin-left: 20px;
+}
+button {
+    border-color: rgb(16, 196, 10);
+    background-color: rgb(127, 255, 155);
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: bold;
+}
